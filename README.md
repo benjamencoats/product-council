@@ -143,3 +143,9 @@ If it responds with **8 advisors (4 standing + 4 bench)**, you're good. If it ca
 - **Cursor IDE** with agent mode enabled (for full council orchestration)
 - No external dependencies — all skills are plain markdown files
 - Works partially with any AI tool (see "Works without Cursor?" above)
+
+---
+
+## Disclaimer
+
+This project is not affiliated with, endorsed by, or connected to any of the individuals referenced. All advisor personas are AI-generated interpretations based on publicly available content (books, newsletters, talks, podcasts, social media posts). These are not the real people — they are AI approximations of publicly shared frameworks and thinking patterns. If any referenced individual would like to be removed, please open an issue and it will be handled immediately.
