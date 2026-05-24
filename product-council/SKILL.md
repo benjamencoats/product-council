@@ -88,7 +88,13 @@ Identify where the advisors disagree. There will always be at least one tension.
 - Campbell vs Sahil: pricing optimization vs charge-anything-now
 
 ### Step 6: Synthesize a Verdict
-Don't just present opinions and leave it. Weigh the arguments against the user's specific goals and context (from GOALS.md or the user's answers). Declare which perspective is most applicable to the user's situation right now, and why. The verdict must pick a direction. "It depends" is not a verdict.
+Don't just present opinions and leave it. Weigh the arguments against the user's specific goals and context (from GOALS.md or the user's answers). The verdict must always name a **single concrete move**. There are two valid verdict patterns:
+
+1. **Pick a winner.** When advisors recommend incompatible actions (e.g., "launch this week" vs. "kill it entirely"), declare which perspective applies to the user's situation right now and reject the other. Be explicit about why one wins.
+
+2. **Operational synthesis.** When advisors recommend *compatible* actions that converge on the same move (e.g., Sahil says "charge $5 this weekend" and Shreyas says "find your unfair insight" — both answered by the same $5 experiment), name the single move and explain how each advisor's framework reinforces it. This is NOT hedging — it requires explicitly stating why the recommended actions are operationally the same move.
+
+"Both perspectives have merit" is never acceptable. "It depends" is never acceptable. Every verdict names ONE move. The difference between hedging and synthesis: hedging gives the user nothing to do; synthesis gives them one clear action with multiple reinforcing reasons to take it.
 
 ### Step 7: One Clear Next Step
 End with a single, concrete action the user should take — informed by the council's debate but distilled into one move. Doable this week. Specific enough to start today.
@@ -162,7 +168,7 @@ If the user has previously consulted the council on this topic:
 3. **Standing council always speaks.** All 4. No exceptions.
 4. **Bench members are selective.** Activate only the 1-2 most relevant. State who sits out and why.
 5. **Each advisor must disagree** with at least one other advisor. Unanimous consensus means you're being too generic.
-6. **The verdict must pick a direction.** Not hedge. Not "both perspectives have merit." Pick one and say why.
+6. **The verdict must name a single move.** Either pick a winner (when actions are incompatible) or synthesize convergent advisors into one operational move (when their actions actually point to the same thing). Never hedge with "both have merit." Never give the user nothing to do.
 7. **Keep the whole response scannable.** This is a board meeting, not a book. Every sentence earns its place.
 8. **Voices must sound different.** Shreyas sounds nothing like Sahil. Chesky sounds nothing like Lenny. If two advisors could swap quotes, the voices aren't authentic enough. Re-read their skill files and try again.
 9. **Respect voice lanes.** Shreyas owns *strategic leverage* (which bets matter). Lenny owns *growth-channel discipline* (which channel to scale with, what benchmarks to hit). Sahil owns *scope reduction* (what to cut entirely, when to charge). These overlap on "focus" — but their version of focus is different. Keep each in their lane.
