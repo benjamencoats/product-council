@@ -2,7 +2,7 @@
 
 **An AI advisory board for product founders with 8 world-class product minds to debate your idea, disagree with each other, and tell you exactly what to do next.**
 
-Ask any product question; Strategy, growth, pricing, PMF, what to build, whether to pivot. You'll get a structured debate between Shreyas Doshi, Brian Chesky, Lenny Rachitsky, Sahil Lavingia, and up to 4 specialist advisors. Every session ends with a clear verdict and one concrete next step. No mush. No "it depends."
+Ask any product question; Strategy, growth, pricing, PMF, what to build, whether to pivot. You'll get a structured debate between AI representations that think like Shreyas Doshi, Brian Chesky, Lenny Rachitsky, Sahil Lavingia, and up to 4 specialist advisors. Every session ends with a clear verdict and one concrete next step. No mush. No "it depends."
 
 ---
 
